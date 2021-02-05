@@ -19,79 +19,63 @@ Studying Information Technology @ Inholland Haarlem
 
 ## Currently
 
-Follow minor data engineering @ Hogeschool Rotterdam
+Following minor data engineering @ Hogeschool Rotterdam
 
-### Experienced in
+### Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Experience from my first internship at CYSO:
+- Docker security practices
+- Grafana
+- Modelling servicedesk process and making an application around the process
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021`
+__Hogeschool Rotterdam__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Minor data engineering
 
-- Sizar
+`2018 - 2022`
+__Inholland Haarlem__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+A broad study where I learn different sides of the IT spectrum like designing, networking, SQL databases, making websites and programming. From this broad experience I can make a choice in which IT subject I want to specialize.
 
 
 
-## Awards
+### Machine Languages/software
 
-`2012`
-President, *Royal Society*, London, UK
+- Ansible
+- Grafana
+- Docker/Docker Compose
+- Java
 
-Associate, *French Academy of Science*, Paris, France
+### Human languages
 
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- English (proficient)
+- Dutch (native)
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`2018`
+__Enza zaden__, Enkhuizen, Noord-Holland
 
-- Warden
-- Minted coins
+- Laboratory work
+- Courier work
+- Field inspection
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2020 - 2021`
+__CYSO B.V.__, Alkmaar, Noord-Holland
+
+- Implementing Mission Control dashboards to make the handling of alerts / tickets run more smoothly
+- Requested feedback and processed the response about the dashboards
+- Made recommendations for future service desk procedures
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2021 -->
 
 
