@@ -1,21 +1,27 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: My CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Bastiaan Mourik
+Studying Information Technology @ Inholland Haarlem
+
+
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:me@bastiaa.nl">e-mail</a>
+| <a href="https://bastiaa.nl">blog</a>
+| <a href="tel:+31651675055">Phone number</a>
+| <a href="https://github.com/bchm">Github</a>
+| <a href="https://gitlab.com/bchm">Gitlab</a>
+| <a href="https://linkedin.com/mourik">LinkedIn</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Follow minor data engineering @ Hogeschool Rotterdam
 
-### Specialized in
+### Experienced in
 
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
