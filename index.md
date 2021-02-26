@@ -20,7 +20,7 @@ Studying Information Technology @ Inholland Haarlem
 
 Being an intern @ GILO and following minor data engineering @ Hogeschool Rotterdam
 
-### Experience
+## Experience
 
 Experience from my first internship at CYSO:
 - Docker security practices
@@ -42,7 +42,7 @@ A broad study where I learn different sides of the IT spectrum like designing, n
 
 
 
-### Machine Languages/software
+## Machine Languages/software
 
 - Python
 - Ansible
@@ -50,7 +50,7 @@ A broad study where I learn different sides of the IT spectrum like designing, n
 - Docker/Docker Compose
 - Java
 
-### Human languages
+## Human languages
 
 - English (proficient)
 - Dutch (native)
