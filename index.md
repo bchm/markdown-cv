@@ -10,7 +10,6 @@ Studying Information Technology @ Inholland Haarlem
 <div id="webaddress">
 <a href="mailto:me@bastiaa.nl">e-mail</a>
 | <a href="https://bastiaa.nl">blog</a>
-| <a href="tel:+31651675055">Phone number</a>
 | <a href="https://github.com/bchm">Github</a>
 | <a href="https://gitlab.com/bchm">Gitlab</a>
 | <a href="https://linkedin.com/mourik">LinkedIn</a>
@@ -19,7 +18,7 @@ Studying Information Technology @ Inholland Haarlem
 
 ## Currently
 
-Following minor data engineering @ Hogeschool Rotterdam
+Being an intern @ GILO and following minor data engineering @ Hogeschool Rotterdam
 
 ### Experience
 
@@ -45,6 +44,7 @@ A broad study where I learn different sides of the IT spectrum like designing, n
 
 ### Machine Languages/software
 
+- Python
 - Ansible
 - Grafana
 - Docker/Docker Compose
@@ -59,20 +59,23 @@ A broad study where I learn different sides of the IT spectrum like designing, n
 ## Occupation
 
 `2018`
-__Enza zaden__, Enkhuizen, Noord-Holland
+__Enza zaden__, Enkhuizen, North-Holland
 
 - Laboratory work
 - Courier work
 - Field inspection
 
 `2020 - 2021`
-__CYSO B.V.__, Alkmaar, Noord-Holland
+__CYSO B.V.__, Alkmaar, North-Holland
 
 - Implementing Mission Control dashboards to make the handling of alerts / tickets run more smoothly
 - Requested feedback and processed the response about the dashboards
 - Made recommendations for future service desk procedures
 
+`2021`
+__GILO__, Rijswijk, South-Holland
 
+Implementing extra components for the GILO software as part of the minor Data Engineering in Rotterdam.
 
 <!-- ### Footer
 
