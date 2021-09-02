@@ -18,7 +18,7 @@ Studying Information Technology @ Inholland Haarlem
 
 ## Currently
 
-Being an intern @ GILO and following minor data engineering @ Hogeschool Rotterdam
+Following minor Cloud Engineering @ Hogeschool Inholland
 
 ## Experience
 
