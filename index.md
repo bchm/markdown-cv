@@ -1,10 +1,9 @@
 ---
 layout: cv
-title: My CV
+title: Bastiaan Mourik's CV
 ---
 # Bastiaan Mourik
-Studying Information Technology @ Inholland Haarlem
-
+Motivated IT student interested in IT automation
 
 
 <div id="webaddress">
@@ -12,7 +11,7 @@ Studying Information Technology @ Inholland Haarlem
 | <a href="https://bastiaa.nl">blog</a>
 | <a href="https://github.com/bchm">Github</a>
 | <a href="https://gitlab.com/bchm">Gitlab</a>
-| <a href="https://linkedin.com/mourik">LinkedIn</a>
+| <a href="https://www.linkedin.com/in/mourik/">LinkedIn</a>
 </div>
 
 
