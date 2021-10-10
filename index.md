@@ -49,6 +49,7 @@ A broad study where I learn different sides of the IT spectrum like designing, n
 - Grafana
 - Docker/Docker Compose
 - Java
+- JavaScript
 
 ## Human languages
 
@@ -58,12 +59,14 @@ A broad study where I learn different sides of the IT spectrum like designing, n
 
 ## Occupation
 
-`2018`
-__Enza zaden__, Enkhuizen, North-Holland
+`Currently`
+__Restaurant Parck__, Haarlem, North-Holland
 
-- Laboratory work
-- Courier work
-- Field inspection
+
+`2021`
+__GILO__, Rijswijk, South-Holland
+
+Implementing extra components for the GILO software as part of the minor Data Engineering in Rotterdam.
 
 `2020 - 2021`
 __CYSO B.V.__, Alkmaar, North-Holland
@@ -72,10 +75,12 @@ __CYSO B.V.__, Alkmaar, North-Holland
 - Requested feedback and processed the response about the dashboards
 - Made recommendations for future service desk procedures
 
-`2021`
-__GILO__, Rijswijk, South-Holland
+`2018`
+__Enza zaden__, Enkhuizen, North-Holland
 
-Implementing extra components for the GILO software as part of the minor Data Engineering in Rotterdam.
+- Laboratory work
+- Courier work
+- Field inspection
 
 <!-- ### Footer
 
