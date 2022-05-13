@@ -20,17 +20,17 @@ Writing my thesis about Kubernetes policies research at Logius to graduate for t
 
 ## Experience
 
-Experience from my first internship and job at CYSO:
+__ Experience from my first internship and job at CYSO: __
 - Docker security practices
 - Grafana
 - Modelling servicedesk process and making an application around the process at a high level
 - Programming in Python
 - Using Elasticsearch to make sense of the data about how much time it costs to solve a support ticket and more processes in the 
 
-Experience from parttime job at GILO: 
+__ Experience from parttime job at GILO: __
 - Programming in Python with libraries spaCy and NLTK.
 
-Experience from internship at Logius:
+__ Experience from internship at Logius: __
 - Kubernetes
 - Kubernetes best practices
 - CVE's and policies
@@ -38,9 +38,8 @@ Experience from internship at Logius:
 ## Education
 
 `2021`
-__Hogeschool Rotterdam__
+__Hogeschool Rotterdam: Minor data engineering__
 
-- Minor data engineering
 Minor where I learned to work with Microsoft Power BI to get value out of the combination of data in the different functions that I programmed for GILO. This value came from a dashboard that calculated a total score of the process in improving the paper of the student.
 
 `2018 - 2022`
