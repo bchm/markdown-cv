@@ -9,9 +9,9 @@ Social person motivated in IT automation and IT processes.
 <div id="webaddress">
 <a href="mailto:me@bastiaa.nl">e-mail</a>
 | <a href="https://bastiaa.nl">blog</a>
-| <a href="https://github.com/bchm">Github</a>
-| <a href="https://gitlab.com/bchm">Gitlab</a>
-| <a href="https://www.linkedin.com/in/mourik/">LinkedIn</a>
+| <a href="https://github.com/bchm">github</a>
+| <a href="https://gitlab.com/bchm">gitlab</a>
+| <a href="https://www.linkedin.com/in/mourik/">linkedin</a>
 </div>
 
 ## Currently
@@ -20,15 +20,15 @@ Writing my thesis about Kubernetes policies research at Logius to graduate for t
 
 ## Experience
 
-__ Experience from my first internship and job at CYSO: __
+** Experience from my first internship and job at CYSO: **
 - Docker security practices
 - Grafana
 - Modelling servicedesk process and making an application around the process at a high level
 - Programming in Python
-- Using Elasticsearch to make sense of the data about how much time it costs to solve a support ticket and more processes in the 
+- Using Elasticsearch to make sense of the data about how much time it costs to solve a support ticket and more processes in the ITIL incident management process
 
 __ Experience from parttime job at GILO: __
-- Programming in Python with libraries spaCy and NLTK.
+- Programming in Python with libraries spaCy and NLTK
 
 __ Experience from internship at Logius: __
 - Kubernetes
