@@ -27,10 +27,10 @@ Writing my thesis about Kubernetes policies research at Logius to graduate for t
 - Programming in Python
 - Using Elasticsearch to make sense of the data about how much time it costs to solve a support ticket and more processes in the ITIL incident management process
 
-__ Experience from parttime job at GILO: __
+**Experience from parttime job at GILO:**
 - Programming in Python with libraries spaCy and NLTK
 
-__ Experience from internship at Logius: __
+**Experience from internship at Logius:**
 - Kubernetes
 - Kubernetes best practices
 - CVE's and policies
