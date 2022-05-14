@@ -20,7 +20,7 @@ Writing my thesis about Kubernetes policies research at Logius to graduate for t
 
 ## Experience
 
-** Experience from my first internship and job at CYSO: **
+**Experience from my first internship and job at CYSO:**
 - Docker security practices
 - Grafana
 - Modelling servicedesk process and making an application around the process at a high level
