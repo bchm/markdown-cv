@@ -3,7 +3,7 @@ layout: cv
 title: Bastiaan Mourik's CV
 ---
 # Bastiaan Mourik
-Social person motivated in IT automation and IT processes.
+Cloud engineer
 
 
 <div id="webaddress">
@@ -16,9 +16,14 @@ Social person motivated in IT automation and IT processes.
 
 ## Currently
 
-Writing my thesis about Kubernetes policies research at Logius to graduate for the degree Information Technology at Inholland Haarlem.
+Being a cloud engineer @ Solvinity, making solutions for governmental and commercial clients. Researching and creating infrastructure and automating tasks.
 
 ## Experience
+
+**Experience from cloud engineer job at Solvinity**
+- Making cloud infrastructure migration for Solvinity’s governmental and commercial customers possible.
+- Learning about Azure, Terraform, networking in more depth and the ins and outs of the Azure cloud platform (for example possibilities with private endpoints and private links).
+- Architecture for the latest Azure services and modern IT solutions.
 
 **Experience from my first internship and job at CYSO:**
 - Docker security practices
@@ -69,6 +74,13 @@ I would like to learn more about AWS and Azure techniques as a result but also h
 
 ## Occupation
 
+
+`2023`
+__Solvinity__, Amersfoort, North-Holland
+Making cloud infrastructure migration for Solvinity’s governmental and commercial customers possible.
+Learning about Azure, Terraform, networking in more depth and the ins and outs of the Azure cloud platform (for example possibilities with private endpoints and private links).
+Architecture for the latest Azure services and modern IT solutions.
+
 `2022`
 __Logius__, The Hague, South-Holland
 
@@ -76,6 +88,7 @@ Implementing the Kubescape scanner with extra data extraction to get value for t
 
 `2021-2022`
 __Restaurant Parck__, Haarlem, North-Holland
+Being a bartender and runner for 6 months.
 
 `2021`
 __GILO__, Rijswijk, South-Holland
@@ -101,6 +114,6 @@ __Enza zaden__, Enkhuizen, North-Holland
 
 <!-- ### Footer
 
-Last updated: May 2022 -->
+Last updated: June 2023 -->
 
 
